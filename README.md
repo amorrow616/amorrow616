@@ -1,6 +1,6 @@
 ### Oh hello!
 
-I'm a psychology major turned software engineer. Coding scratches the perfect spot on my brain, where problem-solving meets creativity. Since starting at App Academy I've found myself cheerfully dedicating evenings and weekends to work on projects. The rush of finally fixing the bug that has been plaguing you for hours is like nothing else.
+I'm a full-stack software engineer. Coding scratches the perfect spot on my brain, where problem-solving meets creativity. Since starting at App Academy I've found myself cheerfully dedicating evenings and weekends to work on projects. The rush of finally fixing the bug that has been plaguing you for hours is like nothing else.
 
 - 🔭 I’m currently working on adding cool features to my a/A capstone project.
 - 🌱 I’m currently learning how to land my first SWE job!
